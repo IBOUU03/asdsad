@@ -1,0 +1,23 @@
+.accordion, .accordion2{
+    border: none;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    height: 40px;
+    width: 500px;
+    text-align: center;
+    display: block;
+}
+.div-style, .div-style2{
+    width: 500px;
+    display: none;
+}
+#accordion-sec{
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.accor{
+    width: 500px;
+}
